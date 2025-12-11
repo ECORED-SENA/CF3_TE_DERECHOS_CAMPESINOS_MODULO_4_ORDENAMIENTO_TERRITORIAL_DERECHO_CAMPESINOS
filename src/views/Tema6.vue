@@ -47,7 +47,7 @@
           .div(titulo="Sistema de Gestión Ambiental Empresarial (Colombia)")
             p Implementado por muchas empresas colombianas, se basa en la ISO 14001 o en lineamientos del Ministerio de Ambiente y Desarrollo Sostenible. Incluye prácticas como el uso eficiente de agua y energía, la reducción de residuos y la prevención de la contaminación.
           .div(titulo="Sistemas Integrados de Gestión (SIG)")
-            p Integran normas como ISO 9001 (Calidad), ISO 45001 (Seguridad y Salud en el Trabajo) y ISO 14001. Permiten una gestión integral en materia ambiental, de calidad y de seguridad.
+            p Integran normas como ISO 9001 (Calidad), ISO 45001 (Seguridad y Salud en el Trabajo) e ISO 14001. Permiten una gestión integral en materia ambiental, de calidad y de seguridad.
           .div(titulo="Ecoeficiencia y Producción más Limpia (P+L)")
             p Estrategia complementaria al SGA que busca mejorar la eficiencia productiva, reducir residuos y minimizar el uso de recursos naturales.
 
@@ -88,7 +88,7 @@
                 img(src="@/assets/curso/tema6/8.png")
             .col-lg-7.mb-3.mb-lg-0.order-lg-1
               h5 Diagnóstico Ambiental
-              p Análisis inicial del estado ambiental de una organización o territorio, identifica problemas y oportunidades de mejora.
+              p Análisis inicial del estado ambiental de una organización o territorio; identifica problemas y oportunidades de mejora.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.mb-3.mb-lg-0.order-lg-2
               figure
@@ -176,7 +176,7 @@
                     h5 03
                     p.mb-0 Mejorar la calidad ambiental en los entornos laborales y sociales.
 
-        p socialPor su parte, el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA, 2019) resalta que estas prácticas fortalecen la responsabilidad ambiental y social, promoviendo el uso de tecnologías limpias y comportamientos sostenibles en organizaciones y comunidades.
+        p Por su parte, el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA, 2019) resalta que estas prácticas fortalecen la responsabilidad ambiental y social, promoviendo el uso de tecnologías limpias y comportamientos sostenibles en organizaciones y comunidades.
 
         separador
         

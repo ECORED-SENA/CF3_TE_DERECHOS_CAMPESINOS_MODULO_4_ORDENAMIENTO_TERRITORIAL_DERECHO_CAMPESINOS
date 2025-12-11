@@ -349,7 +349,7 @@
                 img(src='@/assets/curso/tema1/34.svg', alt='')
             .col-lg
               .p-4
-                p.mb-0(data-aos="fade-up") De acuerdo con el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (2013), las ecorregiones constituyen zonas con atributos biofísicos y ecológicos semejantes, lo que facilita la identificación de patrones de biodiversidad y la formulación de políticas de conservación eficaces. En ese mismo sentido, Wildlife (2001) señala que las ecorregiones ofrecen un marco útil para el diseño de acciones territoriales que respondan a los retos ecológicos y sociales de cada región.
+                p.mb-0(data-aos="fade-up") De acuerdo con el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (2013), las ecorregiones constituyen zonas con atributos biofísicos y ecológicos semejantes, lo que facilita la identificación de patrones de biodiversidad y la formulación de políticas de conservación eficaces. En ese mismo sentido, #[em Wildlife] (2001) señala que las ecorregiones ofrecen un marco útil para el diseño de acciones territoriales que respondan a los retos ecológicos y sociales de cada región.
 
          
 </template>

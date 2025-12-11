@@ -108,7 +108,7 @@
           .bloque-texto-b.color-primario.p-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              h4.mb-0 Un plano bien elaborado no solo representa un diseño; es una guía precisa que anticipa la realidad construida
+              h4.mb-0 Un plano bien elaborado no solo representa un diseño; es una guía precisa que anticipa la realidad construida.
               i.fas.fa-quote-right <br>
               p.d-flex.justify-content-end (Giesecke, Mitchell & Spencer, 2012)
         
