@@ -238,7 +238,7 @@
                     img(src="@/assets/curso/tema6/20.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 01
-                    p.mb-0 Optimizar el uso de los recursos naturales.
+                    p.mb-0 La planificación sostenible.
           .col-lg-6.col-xl-4(data-aos="fade-down").mb-3.mb-lg-0
             .bg-color-17.tarjeta.mb-5
               .p-3
@@ -247,7 +247,7 @@
                     img(src="@/assets/curso/tema6/21.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 02
-                    p.mb-0 Disminuir la contaminación.
+                    p.mb-0 La responsabilidad empresarial.
           .col-lg-6.col-xl-4(data-aos="fade-down").mb-3.mb-lg-0
             .bg-color-17.tarjeta.mb-5
               .p-3
@@ -256,7 +256,7 @@
                     img(src="@/assets/curso/tema6/22.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     h5 03
-                    p.mb-0 Mejorar la calidad ambiental en los entornos laborales y sociales.
+                    p.mb-0 El cumplimiento de la normativa ambiental vigente.
 
 
 
